@@ -9,7 +9,7 @@ Estudos científicos mostram que ficar mais de 30 minutos sem se movimentar pode
 ## 💡 Funcionalidades
 
 - ⏰ **Pausas programadas:** A cada 30 minutos de uso, o aplicativo é acionado.
--  स्क्रीन **Bloqueio Restrito por 5 Minutos:** Uma tela preta em tela cheia cobre o monitor, exibindo um contador regressivo de 5 minutos. Durante este período, o uso do computador é efetivamente bloqueado para incentivar uma pausa real.
+- 🚫 **Bloqueio Restrito por 5 Minutos:** Uma tela preta em tela cheia cobre o monitor, exibindo um contador regressivo de 5 minutos. Durante este período, o uso do computador é efetivamente bloqueado para incentivar uma pausa real.
 - ⚙️ **Configuração simples e leve:** Roda em segundo plano discretamente.
 - 🚫 **Instância Única:** Impede que múltiplas cópias do aplicativo rodem ao mesmo tempo.
 - 💻 **Desenvolvido para Windows:** Utiliza recursos do sistema para suas funcionalidades.
